@@ -1,6 +1,6 @@
 # Data-Science-Work
 
-Welcome to the **Data-Science-Work** repository! This repository is a collection of resources, code, and documents related to data science, machine learning, and data visualization. It is organized to support various data science projects and provide foundational resources for learning and development.
+Welcome to the **Data-Science-Work** repository! This repository is a collection of resources, code, and documents related to data science, machine learning, and data visualization from my Undergraduate Degree at the University of Bath. It is organized to support various data science projects and provide foundational resources for learning and development.
 
 ## Repository Structure
 
@@ -14,8 +14,7 @@ The repository is organized as follows:
 
 - **Other Files**:
   - **.DS_Store**: A system file that can generally be ignored.
-  - **R - Data Visualisation.pdf**: Documentation or notes related to data visualization in R. This PDF could contain tutorials, examples, or theory behind various visualization techniques.
-
+  
 ## Getting Started
 
 To get started with the contents of this repository:
