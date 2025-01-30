@@ -8,6 +8,8 @@ Welcome to the **Data-Science-Work** repository! This repository is a collection
 
 The repository is organized as follows:
 
+- **Dissertation**: Contains my Dissertation in the Applications and Limitations of Pyhics Informed Neural Networks.
+
 - **Python - Data Science**: Contains code, notebooks, and scripts specifically focused on data science concepts, such as data cleaning, preprocessing, exploratory data analysis (EDA), and statistical analysis.
   
 - **Python - Machine Learning**: Focuses on machine learning models and algorithms implemented in Python. This folder includes notebooks and scripts for model training, evaluation, and deployment, covering popular machine learning techniques.
